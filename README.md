@@ -1,3 +1,3 @@
-![alt text](https://raw.githubusercontent.com/edumoran/Portfolio/master/images/portfolio/Readme%20cover.JPG)
+![alt text](https://raw.githubusercontent.com/edumoran/Portfolio/master/images/portfolio/cover.JPG)
 # Portfolio
 * This is still a work in progress...
